@@ -100,4 +100,3 @@ USE dimensional_report_db;
 - Generate hierarchical totals using `ROLLUP`
 - Analyze query execution using `EXPLAIN`
 - Apply basic SQL optimization techniques
-``` ````
